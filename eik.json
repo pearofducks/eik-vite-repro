@@ -1,0 +1,9 @@
+{
+  "name": "eik-vite-reproduction",
+  "version": "0.0.1",
+  "server": "https://assets.finn.no",
+  "files": "./dist",
+  "import-map": [
+    "https://assets.finn.no/map/finn/v2"
+  ]
+}
